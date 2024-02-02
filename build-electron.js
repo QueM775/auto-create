@@ -45,7 +45,7 @@ const folderName = readlineSync.question('What folder do you want to create? ');
 
 // Ask user for destination folder
 const destinationFolder = readlineSync.question(
-  'Please select where to create this folder: '
+  'Please enter the Path where to create this folder. '
 );
 
 // Create the main folder in the destination
