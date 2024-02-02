@@ -21,7 +21,6 @@ This is a sample Electron project created using a script. The project structure 
 
 - main.js
 - .gitignore
-- .env
 - LICENSE
 - README.md
 
