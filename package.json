@@ -1,0 +1,15 @@
+{
+  "name": "auto-create",
+  "version": "1.0.0",
+  "description": "Folder and File structure for a basic electron project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build-electron.js"
+  },
+  "keywords": [],
+  "author": "Erich Quade",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
