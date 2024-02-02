@@ -607,7 +607,6 @@ This is a sample project created with the script.
 
 - main.js
 - .gitignore
-- .env
 
 ## This has both a Main and Second window
 
