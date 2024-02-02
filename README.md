@@ -35,7 +35,7 @@ Organized project structure with dedicated folders for client-side and server-si
 ### 3. Electron-Store Integration
 Electron-Store is utilized to save paths conveniently as key-value pairs. This is useful for setting paths to images, databases, or user-defined paths.
 
-### 4. Electron-Store Integration
+### 4. What you need to enter
 Runs this in your terminal window. Answer the 2 questions 
 1. What folder do you want to create. This should be your Project Name.
 2. Please enter the Path where to create this folder. Now you will need to type in the full path.
